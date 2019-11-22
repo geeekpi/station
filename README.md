@@ -43,7 +43,7 @@ The communication protocol is used to stipulate how the product accepts commands
 | Function | Preamble | Direction | CHIP-ADDRESS | DATA-ADDRESS | VALUE |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | Length | 1 | 1 | 1 | 1 | * |
-| Comment | AA | 00 => i2c-set | I2C_ADDR_RANGE | DATA-ADDRESS | DATA |
+| Comment | AA | 01 => i2c-set | I2C_ADDR_RANGE | DATA-ADDRESS | DATA |
 
 For example:
 
