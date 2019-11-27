@@ -58,4 +58,4 @@ ASCII characters can be sent on the Bluetooth software and can be interpreted au
 
 You can also send ASCII characters or hexadecimal data directly on the serial port tool, but you need to send a newline character to end, line feeds support \n or \r.
 
-For more instructions, check out our WIKI connection: [Go To Wiki] (https://wiki.52pi.com)
+For more instructions, check out our WIKI connection: [Go To Wiki](https://wiki.52pi.com)
